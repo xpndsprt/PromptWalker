@@ -1,5 +1,5 @@
 # PromptWalker
-please visit http://promptwalker.com for installation details
+Please visit http://promptwalker.com for installation details.
 
 - PromptWalker requires Automatic1111 web-ui, download the installer here if it's not installed on your machine
 
